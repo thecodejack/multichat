@@ -1,2 +1,2 @@
-# react-multichat
-Multiple Chat using react and socket.io
+# multichat
+Multiple Chat using socket.io
